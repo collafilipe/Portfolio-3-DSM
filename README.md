@@ -15,7 +15,7 @@ No projeto, fui responsável pela modelagem e criação do banco de dados em MyS
 #### Hard Skills Efetivamente Desenvolvidas
 Python, MySQL, HTML, JavaScript, CSS, Flask e Figma
 
-### Soft Skills Efetivamente Desenvolvida
+#### Soft Skills Efetivamente Desenvolvida
 Desenvolvi habilidades como trabalho em equipe, colaborando para integrar o sistema e atingir os objetivos do projeto. A comunicação eficaz foi fundamental para alinhar expectativas e compartilhar ideias com o time. A resolução de problemas foi desafiada ao lidar com questões técnicas, exigindo soluções rápidas. A gestão de tempo foi crucial para cumprir os prazos, priorizando tarefas essenciais. A adaptabilidade foi necessária para aprender novas ferramentas durante o desenvolvimento, e o pensamento criativo ajudou a encontrar soluções inovadoras para os desafios.
 
 ## 2024-1
