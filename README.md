@@ -33,7 +33,7 @@ TypeScript, React, MySQL, CSS e Figma
 #### Soft Skills Efetivamente Desenvolvidas
 Durante o projeto, enfrentei diversos desafios que contribuíram para o desenvolvimento de habilidades essenciais. A adaptabilidade foi fundamental devido à mudança de tecnologia no meio do processo, exigindo um aprendizado rápido de novas ferramentas e linguagens. O trabalho em equipe foi essencial para alinhar estratégias e redistribuir tarefas após a migração de tecnologia. A comunicação eficaz ajudou na integração do time, assegurando que todos estivessem alinhados durante as mudanças. A resolução de problemas foi constantemente testada, tanto na adaptação às novas ferramentas quanto na integração entre front-end e back-end. A gestão de tempo foi crítica para reorganizar o cronograma após a mudança tecnológica, priorizando as entregas mais urgentes para cumprir os prazos estipulados.
 
-### 2024-2
+## 2024-2
 3º semestre do curso de DSM (Desenvolvimento de Software Multiplataforma) na FATEC Profº Jessen Vidal, em São José dos Campos, foi desenvolvido um projeto com o objetivo de criar um Portal de Transparência para a Fundação de Apoio à Pesquisa de Pós-Graduandos (FAPG). A meta foi entregar uma plataforma robusta e eficiente, com funcionalidades que permitem a inserção de projetos, a realização de buscas avançadas por meio de filtros e a geração de estatísticas apresentadas em gráficos interativos, promovendo um acesso transparente e facilitado às informações públicas. O projeto utilizou uma arquitetura de microserviços para garantir flexibilidade e escalabilidade, além de oferecer um painel intuitivo com gráficos interativos para facilitar a compreensão e o monitoramento detalhado dos projetos cadastrados.
 
 #### Tecnologias Utilizadas
